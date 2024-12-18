@@ -68,6 +68,12 @@ You can use `npx nx list` to get a list of installed plugins. Then, run `npx nx 
 
 [Learn more about Nx plugins &raquo;](https://nx.dev/concepts/nx-plugins?utm_source=nx_project&utm_medium=readme&utm_campaign=nx_projects) | [Browse the plugin registry &raquo;](https://nx.dev/plugin-registry?utm_source=nx_project&utm_medium=readme&utm_campaign=nx_projects)
 
+## To learn more about CLI of NestJS and Angular in NX
+- [Angular](https://angular.dev/)
+- [Angular in NX](https://nx.dev/nx-api/angular/documents/nx-and-angular)
+- [NestJS](https://docs.nestjs.com/)
+- [NestJS in NX](https://nx.dev/nx-api/nest/documents/overview)
+
 ## Set up CI!
 
 ### Step 1
