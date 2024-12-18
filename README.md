@@ -11,23 +11,17 @@
 To run the dev server for your app, use:
 
 ```sh
-npm start:server
+npm run start:server
 ```
 To run the dev client for your app, use:
 
 ```sh
-npm start:client
+npm run start:client
 ```
 To run the whole app, use:
 
 ```sh
 npm start
-```
-
-To create a production bundle:
-
-```sh
-npx nx build server
 ```
 
 To build the server of your app, use:
